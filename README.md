@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theviveks&show_icons=true&locale=en" alt="theviveks" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/theviveks?theme=dark&font=Lato)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theviveks&" alt="theviveks" /></p>
